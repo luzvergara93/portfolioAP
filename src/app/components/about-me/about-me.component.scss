@@ -1,0 +1,48 @@
+#profile { 
+
+    background-color: black;
+    color: white;
+    height:auto;
+    
+
+        .banner {
+            width: 100%;
+        }
+
+        .phrase {
+            font-family: 'Special Elite', cursive;
+            z-index: 20;
+            position: absolute;
+            color: white;
+            font-size: 50px;
+            top: 690px;
+            left: 400px;
+        }
+    .about {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        
+
+        .profile {
+            height: 500px;
+        }
+
+        .aboutInfo {
+            width: 600px;
+            margin-top: 100px;
+
+            h2 {
+                font-family: 'Special Elite', cursive;
+                font-size: 36px;
+            }
+
+            p {
+                font-family: 'Inconsolata', monospace;
+               // font-family: 'Special Elite', cursive;
+                font-size: 18px;
+            }
+        }
+    }
+
+}

@@ -1,0 +1,38 @@
+<div id="skills" class="skillsSection section">
+
+        <div class="container">
+
+            <div class="row">
+
+                <div class="col-md-12 text-center"> 
+                    <h2> TECHNICAL SKILLS </h2>
+                    <p class="subtitle"> A representation of my proficiency in each skill </p>
+
+                </div>
+
+                <ul class="owl-carousel owl-theme">
+
+                    <li *ngFor="let skills of skillsList" class="skill">
+                        <span class="chart" data-percent="100"> 
+                        <span class="percent"> {{skills.percentage}} </span>
+                        <canvas height="152" width="152"> </canvas>
+                        </span>
+                        <h4> {{skills.skill}} </h4>
+                        <p>  </p>
+                    </li>
+                    
+                </ul>
+
+                <div class="col-md-12 text-center"> 
+                    <h2> LANGUAGES </h2>
+
+                </div>
+                <ul>
+                    <li>
+
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+</div>

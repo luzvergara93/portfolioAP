@@ -1,0 +1,117 @@
+{
+    "education":[{
+        "school": "Universidad del Salvador",
+        "img": "https://www.uejn.org.ar/sites/default/files/field/image/Logo-USAL.jpg",
+        "title": "Sworn Translation",
+        "end": "2016"
+    },
+    {   "school": "Universidad del Salvador",
+        "img": "https://www.uejn.org.ar/sites/default/files/field/image/Logo-USAL.jpg",
+        "title": "Post-graduate Teaching Program",
+        "end": "2018"
+    },
+    {   "school": "Loopian",
+        "img": "https://www.loopian.com.ar/cursos/wp-content/uploads/2017/02/logoloopian1-1_clipped_rev_1.jpeg",
+        "title": "Graphic Design",
+        "end": "2019"
+    },
+    {   "school": "Loopian",
+        "img": "https://www.loopian.com.ar/cursos/wp-content/uploads/2017/02/logoloopian1-1_clipped_rev_1.jpeg",
+        "title": "Identity Design and Branding",
+        "end": "2019"
+    },
+    {   "school": "Coderhouse",
+        "img": "https://www.smgusta.com.ar/3153-thickbox_default/coderhouse-aprende-haciendo.jpg",
+        "title": "UX Design",
+        "end": "2021"
+    },
+    {   "school": "Coderhouse",
+        "img": "https://www.smgusta.com.ar/3153-thickbox_default/coderhouse-aprende-haciendo.jpg",
+        "title": "Front End Web Development",
+        "end": "2021"
+    },
+    {   "school": "Acamica",
+        "img": "https://images.prismic.io/acamica%2F087942ab-8d20-4cd1-86f5-0f150ab63587_iso.png?auto=compress,format",
+        "title": "Fullstack Web Development",
+        "end": "in progress"
+
+    },
+    {   "school": "Argentina Programa",
+        "img": "https://desa.argentinaprograma.inti.gob.ar/pluginfile.php/1/theme_moove/logo/1636416529/APLogo-20-20.png",
+        "title": "Fullstack Web Development",
+        "end": "in progress"
+    }],
+    "experience":[{
+        "position": "English Teacher",
+        "establishment": "Different public schools",
+        "start": 2018,
+        "end": "Present"
+        },
+    {   "position": "Shop Assistant",
+        "establishment": "Girasoles Areco",
+        "start": 2012,
+        "end": "Present"
+
+    }],
+    "skills":[{
+        "skill": "HTML",
+        "percentage": 100
+    },
+    {
+        "skill": "CSS",
+        "percentage": 90
+    },
+    {
+        "skill": "JAVASCRIPT",
+        "percentage": 80
+    },
+    {
+        "skill": "REACT",
+        "percentage": 70
+    },
+    {
+        "skill": "SASS",
+        "percentage": 100
+    }
+    ],
+    "languages": [{
+        "language": "English",
+        "level": "advanced"
+    },
+    {   "language": "German",
+        "level": "beginner"
+    },
+    {   "language": "Italian",
+        "level": "beginner"
+    }
+    ],
+    "projects": [{
+        "name": "Meraki Homefy",
+        "type": "Static Web Page",
+        "description": "Developed for the Web Development Course in Coderhouse"
+    }, 
+    {
+        "name": "Meraki Homefy with React",
+        "type": "React App",
+        "description": "Developed for the React JS Course in Coderhouse"
+    },
+    {
+        "name": "Podcast Project",
+        "type": "Static Web Page",
+        "description": "Developed for Acamica"
+    }, 
+    {
+        "name": "GifOs Project",
+        "type": "Javascript Web Page",
+        "description": "Developed for Acamica"
+    },
+    {   
+        "name": "Malverso",
+        "type": "Static Web Page",
+        "description": "Developed for a clothing brand"
+    }]
+
+    
+
+
+}

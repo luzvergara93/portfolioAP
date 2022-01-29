@@ -1,0 +1,23 @@
+#skills {
+    background-color: black;
+    color: white;
+
+    h2 {
+        font-family: 'Special Elite', cursive;
+        font-size: 36px;
+    }
+
+    .subtitle {
+        font-family: 'Inconsolata', monospace;
+    }
+    ul {
+        display: flex;
+        flex-direction: row;
+
+        li {
+            font-family: 'Inconsolata', monospace;
+            list-style: none;
+            
+        }
+    }
+}

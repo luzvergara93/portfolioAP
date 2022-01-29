@@ -1,0 +1,36 @@
+#education {
+    background-color: black;
+    color: white;
+    padding: 100px;
+
+    h2 {
+        font-family: 'Special Elite', cursive;
+        font-size: 36px;
+
+    }
+
+    ul {
+        display: grid;
+        grid-template-columns: auto auto;
+    }
+
+    li {
+        font-family: 'Inconsolata', monospace;
+        list-style: none;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        
+        img {
+            height: 200px;
+            width: 200px;
+            object-fit: contain;
+            padding-right: 50px;
+
+        }
+
+        h3 {
+            font-weight: bold;
+        }
+    }
+}
